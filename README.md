@@ -6,8 +6,7 @@
   1、在web页面的</head>标签前引用table.js文件，如：  
   `<script type="text/javascript" src="table.js"></script>`  
   2、在页面中的table标签上增加class名称为"altrowstable"的样式引用，如：
-  `
-<table class="altrowstable">
+  `<table class="altrowstable">
 	<tr>
 		<th>id</th>
 		<th>name</th>
@@ -32,8 +31,7 @@
 		<td>29</td>
 		<td>England</td>
     </tr>
- </table>
-  `
+ </table>`
 
  ###Example:  
    请看项目中的exaple.html文件，效果如下：  
