@@ -3,7 +3,8 @@
 注意：本项目依赖于jquery的1.6.1以上版本。    
 
 ### Usage：
-1、在web页面的</head>标签前引用table.js文件，如：  
+1、在web页面的`</head>`标签前引用table.js文件以及table.css文件，如：  
+`<link rel="stylesheet" type="text/css" href="table.css">`  
 `<script type="text/javascript" src="table.js"></script>`  
 2、在页面中的table标签上增加class名称为"altrowstable"的样式引用，如：  
 ![alt](https://github.com/iwilsonlee/wtable/blob/master/example-code.png?raw=true)
