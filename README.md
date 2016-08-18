@@ -5,7 +5,7 @@
 ### Usage：
 1、在web页面的</head>标签前引用table.js文件，如：  
 `<script type="text/javascript" src="table.js"></script>`  
-2、在页面中的table标签上增加class名称为"altrowstable"的样式引用，如：
+2、在页面中的table标签上增加class名称为"altrowstable"的样式引用，如：  
 ![alt](https://github.com/iwilsonlee/wtable/blob/master/example-code.png?raw=true)
    
 ### Example: 
